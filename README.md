@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 git clone https://github.com/yourusername/skype7.git
-cd skype7
+cd skype+
 
 Run the server:
 
@@ -52,6 +52,7 @@ Generate SSL certificates for secure HTTPS connections:
 bash
 openssl req -x509 -newkey rsa:4096 -keyout keys.key -out keys.crt -days 365 -nodes
 Place the keys.crt and keys.key files in the same directory as skype7.py. The server will automatically detect and enable HTTPS.
+
 
 Network Requirements
 
@@ -143,3 +144,10 @@ Close other bandwidth-intensive applications
 Check network stability
 Ensure STUN servers are reachable
 Try using HTTPS for more stable connections
+
+
+<img width="750" height="1624" alt="IMG_8252" src="https://github.com/user-attachments/assets/e205b65f-c4bf-4115-9b8b-1ec5b9af5112" />
+
+<img width="750" height="1624" alt="IMG_8240" src="https://github.com/user-attachments/assets/0c963237-3d99-4e4d-a6fb-f89fe4fd4734" />
+
+
