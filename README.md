@@ -1,4 +1,4 @@
-Skype7 - Peer-to-Peer Video Call Application
+Skype+ - Peer-to-Peer Video Call Application
 
 Skype7 is a lightweight, browser-based P2P video calling application that enables direct video and audio communication between users using unique 4-digit IDs. No registration, no personal data collection, just instant connections.
 
